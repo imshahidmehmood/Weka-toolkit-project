@@ -1,7 +1,7 @@
 # Weka-toolkit-project
 Weka toolkit project with python and mysql
 
-                                                                        ####REGRESSION MODEL TOOLKIT
+                                                                        ###REGRESSION MODEL TOOLKIT
 
 Keywords
 Huge information Analytics, Machine Learning, Deep Learning, Python, Clustering, Statistician and Database.
