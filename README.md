@@ -68,12 +68,18 @@ Data preprocessing is technique in which we transform our data regarding our pro
 ###### ⦁	Encoding
 ###### ⦁	Model training
 Genuine information is rarely ideal, it will have missing information cells, blunders, exceptions, errors in names, and substantially more. Information pre-handling is definitely not a solitary errand, yet numerous various undertakings, that should be performed bit by bit. The yield of one stage would be the contribution of the subsequent stage etc.
+![Data-Preprocessing](https://user-images.githubusercontent.com/82101704/115680761-4c316380-a36d-11eb-83b4-5b981753f5d3.png)
+
+![Missing-Vlues](https://user-images.githubusercontent.com/82101704/115680799-55bacb80-a36d-11eb-9065-d0b35ba3d43c.png)
+
+![feature-selection](https://user-images.githubusercontent.com/82101704/115680958-7d119880-a36d-11eb-9c20-acc0fcbb035a.png)
 
 ### Data Splitting:
 The train-test split is a method for assessing the presentation of an AI calculation. It tends to be utilized for grouping or relapse issues and can be utilized for any administered learning calculation.
 ###### ⦁	Train data (a subset to prepare a model).
 ###### ⦁	Test data (a subset to prepare a model).
 You could envision cutting the single informational index as follows:
+![Data-Spliting](https://user-images.githubusercontent.com/82101704/115680997-87cc2d80-a36d-11eb-9c0f-b5727917ccb7.png)
 
 ### Data Visualization:
 Visualization is the process of visualizing the numeric data in pictorial form to understand the data complexity. We apply this technique at multiple times in our system. We will use multiple visualization techniques:
@@ -87,9 +93,8 @@ In machine learning we choose the best model for our problem. You can select any
 ###### ⦁	Polynomial regression
 ###### ⦁	Logistic regression
 
-![Data-Preprocessing](https://user-images.githubusercontent.com/82101704/115680761-4c316380-a36d-11eb-83b4-5b981753f5d3.png)
-![Missing-Vlues](https://user-images.githubusercontent.com/82101704/115680799-55bacb80-a36d-11eb-9065-d0b35ba3d43c.png)
-![feature-selection](https://user-images.githubusercontent.com/82101704/115680958-7d119880-a36d-11eb-9c20-acc0fcbb035a.png)
-![Data-Spliting](https://user-images.githubusercontent.com/82101704/115680997-87cc2d80-a36d-11eb-9c0f-b5727917ccb7.png)
+
+
+
 ![Model-Selection](https://user-images.githubusercontent.com/82101704/115681037-931f5900-a36d-11eb-915f-0ae257e9352c.png)
 
