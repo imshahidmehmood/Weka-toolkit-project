@@ -88,3 +88,10 @@ In machine learning we choose the best model for our problem. You can select any
 ⦁	Logistic regression
 
 ![first](https://user-images.githubusercontent.com/82101704/115679823-674fa380-a36c-11eb-9aba-58f69e81f536.png)
+![Second](https://user-images.githubusercontent.com/82101704/115680693-3b80ed80-a36d-11eb-831f-38ae8b7b932f.png)
+![Data-Preprocessing](https://user-images.githubusercontent.com/82101704/115680761-4c316380-a36d-11eb-83b4-5b981753f5d3.png)
+![Missing-Vlues](https://user-images.githubusercontent.com/82101704/115680799-55bacb80-a36d-11eb-9065-d0b35ba3d43c.png)
+![feature-selection](https://user-images.githubusercontent.com/82101704/115680958-7d119880-a36d-11eb-9c20-acc0fcbb035a.png)
+![Data-Spliting](https://user-images.githubusercontent.com/82101704/115680997-87cc2d80-a36d-11eb-9c0f-b5727917ccb7.png)
+![Model-Selection](https://user-images.githubusercontent.com/82101704/115681037-931f5900-a36d-11eb-915f-0ae257e9352c.png)
+
