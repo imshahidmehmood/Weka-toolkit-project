@@ -51,40 +51,40 @@ It is a numerical evaluation of chance that a particular events would occur. We 
 ###### ⦁	Mean
 ###### ⦁	Median
 ###### ⦁	Mode
-⦁	Mean square error
-⦁	R mean square error
-⦁	Mean absolute error
+###### ⦁	Mean square error
+###### ⦁	R mean square error
+###### ⦁	Mean absolute error
 
-Data Preprocessing:
+### Data Preprocessing:
 Data preprocessing is technique in which we transform our data regarding our problem. Transforming raw data so that it can compact with our model requirements.
-⦁	Managing Missing Values in the Data 
-⦁	Supplanting Missing Values 
-⦁	Attributing Missing Values in information 
-⦁	Working with Categorical Variables 
-⦁	Working with Outliers 
-⦁	Preprocessing Data for Model Building
-⦁	Identify target features
-⦁	Encoding
-⦁	Model training
+###### ⦁	Managing Missing Values in the Data 
+###### ⦁	Supplanting Missing Values 
+###### ⦁	Attributing Missing Values in information 
+###### ⦁	Working with Categorical Variables 
+###### ⦁	Working with Outliers 
+###### ⦁	Preprocessing Data for Model Building
+###### ⦁	Identify target features
+###### ⦁	Encoding
+###### ⦁	Model training
 Genuine information is rarely ideal, it will have missing information cells, blunders, exceptions, errors in names, and substantially more. Information pre-handling is definitely not a solitary errand, yet numerous various undertakings, that should be performed bit by bit. The yield of one stage would be the contribution of the subsequent stage etc.
 
-Data Splitting:
+### Data Splitting:
 The train-test split is a method for assessing the presentation of an AI calculation. It tends to be utilized for grouping or relapse issues and can be utilized for any administered learning calculation.
-⦁	Train data (a subset to prepare a model).
-⦁	Test data (a subset to prepare a model).
+###### ⦁	Train data (a subset to prepare a model).
+###### ⦁	Test data (a subset to prepare a model).
 You could envision cutting the single informational index as follows:
 
-Data Visualization:
+### Data Visualization:
 Visualization is the process of visualizing the numeric data in pictorial form to understand the data complexity. We apply this technique at multiple times in our system. We will use multiple visualization techniques:
-⦁	Bar graph
-⦁	Scatter plot
-⦁	Pie chart
-Model Selection:
+###### ⦁	Bar graph
+###### ⦁	Scatter plot
+###### ⦁	Pie chart
+### Model Selection:
 In machine learning we choose the best model for our problem. You can select any model from this toolkit. For regression problem we will implement:
-⦁	Linear regression
-⦁	Multiple regression
-⦁	Polynomial regression
-⦁	Logistic regression
+###### ⦁	Linear regression
+###### ⦁	Multiple regression
+###### ⦁	Polynomial regression
+###### ⦁	Logistic regression
 
 ![first](https://user-images.githubusercontent.com/82101704/115679823-674fa380-a36c-11eb-9aba-58f69e81f536.png)
 ![Second](https://user-images.githubusercontent.com/82101704/115680693-3b80ed80-a36d-11eb-831f-38ae8b7b932f.png)
