@@ -45,7 +45,8 @@ Data loading is the process of importing data files. The CSV file can be loading
 ###### ⦁	Select Model
 ###### ⦁	Read CSV or Excel file
 CSV alludes to comma separated qualities which is a basic document design that helps in putting away even information structure. This CSV organization can be handily stacked into a Pandas data frame with the assistance of the read_csv work.
-
+![first](https://user-images.githubusercontent.com/82101704/115679823-674fa380-a36c-11eb-9aba-58f69e81f536.png)
+![Second](https://user-images.githubusercontent.com/82101704/115680693-3b80ed80-a36d-11eb-831f-38ae8b7b932f.png)
 ### Statistics:
 It is a numerical evaluation of chance that a particular events would occur. We utilize factual models to discover experiences given a specific arrangement of information. We can direct displaying on a moderately little arrangement of information just to attempt to comprehend the fundamental idea of the information. It is the process to measure the model accuracy. We use different measures for this purpose. For regression problem we will implement
 ###### ⦁	Mean
@@ -86,8 +87,6 @@ In machine learning we choose the best model for our problem. You can select any
 ###### ⦁	Polynomial regression
 ###### ⦁	Logistic regression
 
-![first](https://user-images.githubusercontent.com/82101704/115679823-674fa380-a36c-11eb-9aba-58f69e81f536.png)
-![Second](https://user-images.githubusercontent.com/82101704/115680693-3b80ed80-a36d-11eb-831f-38ae8b7b932f.png)
 ![Data-Preprocessing](https://user-images.githubusercontent.com/82101704/115680761-4c316380-a36d-11eb-83b4-5b981753f5d3.png)
 ![Missing-Vlues](https://user-images.githubusercontent.com/82101704/115680799-55bacb80-a36d-11eb-9065-d0b35ba3d43c.png)
 ![feature-selection](https://user-images.githubusercontent.com/82101704/115680958-7d119880-a36d-11eb-9c20-acc0fcbb035a.png)
