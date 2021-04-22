@@ -87,3 +87,4 @@ In machine learning we choose the best model for our problem. You can select any
 ⦁	Polynomial regression
 ⦁	Logistic regression
 
+![first](https://user-images.githubusercontent.com/82101704/115679823-674fa380-a36c-11eb-9aba-58f69e81f536.png)
